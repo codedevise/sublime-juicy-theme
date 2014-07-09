@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-![](https://www.dropbox.com/s/j4ilb3yhtgoptds/window.png)
+![](screenshots/window.png)
 
-![](https://www.dropbox.com/s/4140ekfk2cyhikd/search.png)
+![](screenshots/search.png)
 
-![](https://www.dropbox.com/s/ptfwh7xyaymh5zk/panel.png)
+![](screenshots/panel.png)
 
 ## Installation
 
