@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-![](https://dl.dropboxusercontent.com/u/7263172/juicy/window.png)
+![](https://www.dropbox.com/s/j4ilb3yhtgoptds/window.png)
 
-![](https://dl.dropboxusercontent.com/u/7263172/juicy/search.png)
+![](https://www.dropbox.com/s/4140ekfk2cyhikd/search.png)
 
-![](https://dl.dropboxusercontent.com/u/7263172/juicy/panel.png)
+![](https://www.dropbox.com/s/ptfwh7xyaymh5zk/panel.png)
 
 ## Installation
 
